@@ -1,0 +1,2 @@
+i am text1.txt new file 
+i m used in demostration of push command
